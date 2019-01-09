@@ -7,10 +7,10 @@ The following steps were completed.
     c. Installed Kaggal account into Sagemaker notebook 
     d. Downloaded the Kaggal data/library using the Kaggal API
     e. Created S3 buckets to uploaded the data
-    f. Decided the approach of using the algorithm "Image Classification Increamental training Alogrithm"
+    f. Decided the approach of using the algorithm "Image object-detection Algorithm"
     e. We have decided two-step approach.
       1. See if any block exists in the image 
-      2. If there is ablock then match the pattern to determine if it a ship
+      2. If there is a-block then match the pattern to determine if it a ship
       
    Tomorrow - Plan
    1. Copy all  test data to S3 bucket
